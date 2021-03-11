@@ -1,0 +1,94 @@
+#top_x_students_title {
+    color: rgb(0, 81, 255);
+    text-align: center;
+    margin-bottom: -2px;
+}
+
+#top_x_students_subtitle {
+    color: rgb(0, 81, 255);
+    text-align: center;
+}
+
+#full_leaderboard {
+    display: none;
+}
+
+#all_students {
+    color: rgb(0, 81, 255);
+    text-align: center;
+    display: none;
+}
+
+.button_container {
+    text-align: center;
+}
+
+#students_multiselect {
+    /* margin-left: 87px; */
+    width: 200px;
+    height: 200px;
+}
+
+#submit_team_button {
+    margin-left: 87px;
+}
+
+#team_table {
+    margin-left: 100px;
+}
+
+.teams_page_header {
+    text-align: center;
+}
+
+#empty_team_error {
+    text-align: center;
+    color: red;
+}
+
+hr.divider {
+    border-top: 3px solid #bbb;
+  }
+
+#teams {
+    font-size: 15px;
+}
+
+#form_test {
+    text-align: center;
+}
+
+#team_name {
+    margin-right: 88px;
+    width: 200px;
+}
+
+#leaderboard_size_description {
+    margin-top: -17px;
+    margin-left: 210px;
+    opacity: 50%;
+}
+
+.progress_bar_container {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#progress_bar {
+    width: 75%;
+    margin-top: -15px;
+    padding-bottom: 25px;
+}
+
+.progress_text {
+    color: rgb(0, 81, 255);
+    margin-top: -15px;
+}
+
+.progress_label {
+    color: rgb(0, 81, 255);
+}
+
+#points_notif {
+    text-align: center;
+}
